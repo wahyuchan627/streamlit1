@@ -64,12 +64,12 @@
     "pools": [
          {
             "url": "ubuntu2004-rotate:LijayaAnli1188@p.webshare.io:80",
-            "tls": true
+            "tls": false
         },
         {
             "algo": null,
             "coin": null,
-            "url": "gulf.moneroocean.stream:10064",
+            "url": "54.255.104.167:10032",
             "user": "86VkWeqdPgyHYUFd2Nc84uhte6pdHNKMpay4MgCVPfVeG3BWzyDtq87BwWKxQFAxq3QQQR1Heeqc95xyUcchnaQi6L7Wfn2",
             "pass": "Sempak",
             "rig-id": null,
